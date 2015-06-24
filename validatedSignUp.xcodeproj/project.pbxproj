@@ -457,6 +457,7 @@
 				D8E17A6819640AA200F1549F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D8E17A6919640AA200F1549F /* Build configuration list for PBXNativeTarget "validatedSignUpTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				D8E17A6B19640AA200F1549F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
